@@ -54,4 +54,4 @@ This project analyzes retail sales data using Excel and Power BI to uncover key 
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard](Sales-Analysis-Excel-PowerBI/dashboard.png).png)
+![Dashboard](Sales-Analysis-Excel-PowerBI/db_sales.png).png)
